@@ -1,42 +1,65 @@
-# Hi, I'm Nida Aijaz 👋
+# Nida Aijaz 🧬
 
 **Biotechnologist · Bioinformatician · AI/ML for Life Sciences**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nida-aijaz-71ab58206) · 📧 nidaaijazzargar@gmail.com · 📍 Chennai, India
+📍 Srinagar Jammu and Kashmir, India · 🔗 [LinkedIn](https://www.linkedin.com/in/nida-aijaz-71ab58206) · 📧 nidaaijazzargar@gmail.com
 
 ---
 
-### 🧬 About Me
+### About Me
 
-I'm a biotechnologist with an **M.Tech in Biotechnology** from SRM Institute of Science and Technology, working at the intersection of **bioinformatics**, **genomics**, and **machine learning**.
+I'm a biotechnologist with an M.Tech in Biotechnology from SRM Institute of Science and Technology. I work at the intersection of bioinformatics, genomics, and machine learning — and I spend my days making AI smarter about biology.
 
-- 🔬 **AI Trainer @ Turing** — Bioinformatics & Computational Genomics Expert · Life Sciences SME (Biology)
-- 🧪 Research focus: antimicrobial resistance genomics, cancer biomarker discovery, predictive modelling
-- 🤖 I evaluate and stress-test AI models on hard life-science problems — finding where they fail and writing the expert answers that fix them
+At **Turing**, I work as an AI Trainer across two tracks:
 
----
+🔬 **Bioinformatics & Computational Genomics Expert** — I evaluate and improve AI outputs on genomics workflows, from genome assembly and annotation to resistance-gene detection and variant analysis.
 
-### 🛠️ Tech & Tools
-
-**Languages & ML:** Python · R · scikit-learn · TensorFlow · pandas · SVM · Deep Neural Networks
-
-**Bioinformatics:** BLAST · SPAdes · Prokka · ABRicate · ResFinder · GEO2R · Bioconductor · Cytoscape · Galaxy · MEGA · DAVID · NCBI Tools
-
-**Wet Lab:** PCR/qPCR · Gel Electrophoresis · MIC & Disk Diffusion (AST) · LFT Analysis · Illumina WGS Library Prep
-
-**Databases:** NCBI GenBank · GEO · CARD · UniProt · PDB · ResFinder DB
+🧫 **Life Sciences SME (Biology)** — I stress-test AI models on hard biology problems, write expert reference answers, and design tasks that expose where models fail on nuanced life-science reasoning.
 
 ---
 
-### 🔬 Featured Projects
+### What I Work With
 
-| Project | What it does |
-|---------|-------------|
-| **WGS & AMR Analysis of Fresh Produce Bacteria** | Whole-genome sequencing + phenotypic profiling of antimicrobial-resistant bacteria from retail produce. SPAdes → Prokka → ABRicate/ResFinder pipeline. |
-| **Lung Cancer Detection via ML** | End-to-end SVM and deep neural network pipeline with Boruta feature selection for predictive biomarker discovery. |
-| **Breast Cancer Gene Profiling** | Differential expression and pathway enrichment on public datasets using GEO2R, R/Bioconductor, and DAVID. |
-| **LFTs & MAFLD Association Study** | Statistical and ROC-based analysis of liver function biomarkers in MAFLD screening. |
+```
+Languages        Python · R
+ML / DL          scikit-learn · TensorFlow · SVM · Deep Neural Networks · Boruta
+Bioinformatics   BLAST · SPAdes · Prokka · ABRicate · ResFinder · GEO2R
+                 Bioconductor · Cytoscape · Galaxy · MEGA · DAVID · NCBI Tools
+Wet Lab          PCR/qPCR · Gel Electrophoresis · Illumina WGS Library Prep
+                 MIC & Disk Diffusion (AST) · LFT Analysis
+Databases        NCBI GenBank · GEO · CARD · UniProt · PDB
+```
 
 ---
 
-> *"Making AI more reliable in the life sciences, one failed model at a time."*
+### Research & Projects
+
+**🦠 WGS & AMR Analysis of Fresh Produce Bacteria**
+Whole-genome sequencing and antimicrobial susceptibility profiling of bacteria isolated from retail fresh produce. Built the full pipeline: SPAdes → Prokka → ABRicate/ResFinder. Integrated genotypic and phenotypic evidence to characterize resistance profiles.
+
+**🫁 Lung Cancer Detection via Machine Learning**
+End-to-end predictive modelling using SVM and deep neural networks with Boruta feature selection. Evaluated biomarker candidates using ROC curves and cross-validation. Interpreted model outputs for biological relevance to diagnostic research.
+
+**🧬 Breast Cancer Gene Profiling**
+Differential expression and pathway enrichment analysis on public gene-expression datasets using GEO2R, R/Bioconductor, and DAVID. Identified candidate diagnostic and prognostic biomarkers across cancer subtypes.
+
+**🧪 LFT & MAFLD Association Study**
+Cross-sectional analysis of liver function biomarkers (ALT, AST, GGT, ALP, bilirubin) in MAFLD screening. Applied statistical analysis and ROC-based evaluation to compare diagnostic performance.
+
+---
+
+### Education
+
+🎓 **M.Tech — Biotechnology** · SRM Institute of Science and Technology (2024–2026)
+🎓 **B.Tech — Biotechnology** · Amity University (2020–2024)
+
+---
+
+### Publications & Presentations
+
+📄 Research Poster — Industry Academia Induction Program, Industry Conclave 2026
+📄 Research Poster — International Conference on Bioengineering 2026 (ICB 2026)
+
+---
+
+*Making AI more reliable in the life sciences, one failed model at a time.*
